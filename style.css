@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 512px;
+}
+
+h1{
+    padding: 1rem;
+}
+
+hr{
+    border: solid 2px;
+    color: black;
+
+}
+
+.block_with_names{
+    border: solid;
+    padding: 1rem;
+    margin: 1rem 2rem;
+    block-size: 150px;
+    ;
+}
+
+footer{
+    padding: 1rem;
+}
